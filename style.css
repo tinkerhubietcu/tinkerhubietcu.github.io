@@ -159,7 +159,7 @@ nav > ul > li > a:hover{
 .page__section_2,.page__section_3,.page__section_4{
     padding-top: 35px;
     padding-bottom: 25px;
-    border-top: 0.5px solid rgba(0, 0, 0, 0.15);
+   /* border-top: 0.5px solid rgba(0, 0, 0, 0.15);*/
 }
 .page__section_4{
     padding-bottom: 25px;
